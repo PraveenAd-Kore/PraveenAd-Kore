@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Praveen Kumar**
 - 👀 I’m interested in Node.JS developement and Web Designing
 - 🌱 I’m currently learning backend development using Node and Express
-- 💞️ I'm interested in collaborating on automations or apps that can help support teams reduce their time load and workload.
+- 💞️ I'm interested in collaborating on automations or apps that can help Support Team reduce their time load and workload.
 - 📫 How to reach me - Ping me on Gchat
 - ⚡ Fun fact: Some Facts are fun
 
